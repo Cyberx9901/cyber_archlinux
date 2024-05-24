@@ -1,6 +1,6 @@
 # Maintainer: Cyber Anonymous
 
-pkgname=cyberarch
+pkgname=cyber_archlinux
 pkgver=1
 pkgrel=1
 pkgdesc='Meta package to install programs used by Cyber'
